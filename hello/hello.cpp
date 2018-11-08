@@ -3,7 +3,7 @@
 #include "TutorialConfig.h"
 
 #ifdef USE_MYMATH
-#include "utils"
+#include "utils.h"
 #endif
 
 int main(int argc, char *argv[])
@@ -19,6 +19,7 @@ int main(int argc, char *argv[])
    int a = 6, b = 2, c = 6;
 #ifdef USE_MYMATH
    c = add(a, b);
+   printf("using USE_MYMATH.\n");
 #else
    c = a + b;
 #endif
