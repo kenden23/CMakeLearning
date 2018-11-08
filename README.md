@@ -2,6 +2,12 @@
 Learn CMake with Examples.  
 Check the commitments of CMakeLists.txt, which should illustrate itself in commitments.
 
+# purpose
+Demostrate a simple example how to use CMakeLists.txt to generate a project.
+Including:
+1. How to compile a running program
+2. How to link a liabrary
+3. How to use macro
 
 # install cmake
 https://cmake.org/install/
