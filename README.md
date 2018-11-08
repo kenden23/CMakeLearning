@@ -1,5 +1,6 @@
 # CMakeLearning
 Learn CMake with Examples
+Check the commitments of CMakeLists.txt, which should illustrate itself in commitments.
 
 
 # install cmake
